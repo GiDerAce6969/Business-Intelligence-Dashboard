@@ -25,24 +25,7 @@ A clean, single-page web application to track income, expenses, and investments.
 -   **Chart.js** (for data visualization)
 -   **Browser `localStorage`** (for client-side data storage)
 
----
 
-## 🚀 How to Use
-
-This is a frontend-only project. No complex setup is required!
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/fintrack-personal-finance-dashboard.git
-    ```
-2.  **Navigate to the directory:**
-    ```bash
-    cd fintrack-personal-finance-dashboard
-    ```
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Edge).
-
-That's it! The application is ready to use.
 
 ---
 
