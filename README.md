@@ -1,6 +1,6 @@
 # FinTrack - A Personal Finance & Investment Dashboard
 
-https://github.com/GiDerAce6969/Financial-Tracking/blob/main/FinTrack%20Dashboard.png
+![Screenshot of FinTrack Dashboard](URL_TO_YOUR_DASHBOARD_SCREENSHOT)
 
 A clean, single-page web application to track income, expenses, and investments. This project is built entirely with frontend technologies and uses browser `localStorage` to save data, requiring no backend or database.
 
