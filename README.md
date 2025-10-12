@@ -1,6 +1,6 @@
 # FinTrack - A Personal Finance & Investment Dashboard
 
-![Screenshot of FinTrack Dashboard](FinTrack Dashboard.png)
+
 
 A clean, single-page web application to track income, expenses, and investments. This project is built entirely with frontend technologies and uses browser `localStorage` to save data, requiring no backend or database.
 
