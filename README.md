@@ -47,30 +47,10 @@ An enterprise-grade, full-stack Business Intelligence and Data Analytics web app
 
 ---
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 * Python 3.10+ (Tested on 3.13)
 * Node.js 18+ & npm
 * PostgreSQL database (configured via DBeaver or pgAdmin), or other databases will do so
 
-### 1. Database Setup
-Execute the SQL scripts located in the `/sql` directory (or from the project documentation) to build the data warehouse schema:
-1.  Create the `bi_analytics` schema.
-2.  Create `dim_time`, `dim_organization`, and `fact_sales` tables.
-3.  Run the generation scripts to populate the tables with synthetic corporate data.
-
-### 2. Backend Installation
-Navigate to the backend directory and set up the Python environment:
-
-```bash
-cd backend
-python -m venv venv
-
-# Activate virtual environment (Windows)
-venv\Scripts\activate
-# Activate virtual environment (Mac/Linux)
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
